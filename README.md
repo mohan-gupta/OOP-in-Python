@@ -1,4 +1,4 @@
-# Object Oriented Programming(OOP) in Python
+# Object Oriented Programming(OOP) with Python
 OOP involves creation of classes & objects, concept of OOP is to create reusable code.This concept is also known as DRY(Don't Repeat Yourself).<br>
 
 This type of programming requires much code to perform simple tasks,hence it is better to go for procedure based approach for simple tasks.<br>
