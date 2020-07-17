@@ -6,7 +6,7 @@ This type of programming requires much code to perform simple tasks,hence it is 
 In Python, private, public, protected access specifiers are not available.Everyrhing written in the class will come under public.<br>
 If we want to declare a variable as private we can use double underscores before the variable or function name(```__var,__func```).<br>
 
-<b>Some termonologies used in OOP.<\b><br>
+<b>Some termonologies used in OOP.<br><\b>
 
 <b>class</b>      -->  class is simply the blueprint of the Object.<br>
 
