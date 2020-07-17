@@ -6,9 +6,9 @@ This type of programming requires much code to perform simple tasks,hence it is 
 In Python, private, public, protected access specifiers are not available.Everyrhing written in the class will come under public.<br>
 If we want to declare a variable as private we can use double underscores before the variable or function name(```__var,__func```).<br>
 
-<b>Some termonologies used in OOP<\b>.<br>
+Some termonologies used in OOP.<br>
 
-<b>class</b>      -->  class is simply the blueprint of the Object.<br>
+--<b>class</b>      -->  class is simply the blueprint of the Object.<br>
 
 <b>constructor</b> --> Constructor are special method which are called automatically when the object of the class is created.<br>
 		                   constructors are used to initialise class level variables. It has no return type.<br>
